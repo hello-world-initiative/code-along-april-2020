@@ -1,0 +1,18 @@
+Code along April 11. 2020
+-------------------------
+
+ExpressJS -> NodeJS -> MySQL
+
+ExpressJS -> 1/2 NodeJS == Phil
+
+1/2 NodeJS -> MySQL = Tony
+
+To do
+
+what to do
+is it done
+when is it due
+status
+who is suppose to do it
+
+CRUD ops
